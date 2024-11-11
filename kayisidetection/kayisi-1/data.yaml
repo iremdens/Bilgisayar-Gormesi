@@ -1,0 +1,14 @@
+names:
+- cekirdek
+- kayisi
+- yaprak
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: kayisi-bu8jv
+  url: https://universe.roboflow.com/irem-kc8lh/kayisi-bu8jv/dataset/1
+  version: 1
+  workspace: irem-kc8lh
+test: ../test/images
+train: ../train/images
+val: ../valid/images
